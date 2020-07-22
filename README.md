@@ -3,9 +3,9 @@
 </p>
 
 # Curso Eletrônica & Arduino
-  O curso aborda as noções básicas de eletricidade e eletrônica utilizando a plataforma Arduino.
+  O curso é destinado a iniciantes em eletrônica e programação, aborda as noções básicas de eletricidade e eletrônica utilizando a plataforma Arduino.
 # Objetivos
-  O curso é destinado a iniciantes em eletrônica e programação. O curso tem o propósito de ensinar:
+  O curso tem o propósito de ensinar:
   
 + Conceitos de Tensão, Corrente e Potência
 + Noções de Circuitos
