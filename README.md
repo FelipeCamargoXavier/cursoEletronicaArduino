@@ -16,7 +16,7 @@
 
 # Aulas
   As aulas estão divididas em quatro partes: eletrônica e eletricidade básica, componentes eletrônicos, plataforma 
-Arduino e projetos práticos. Os projetos e os slides das aulas estão listados abaixo.
+Arduino e projetos práticos. 
   
 1) [Eletrônica](https://drive.google.com/file/d/1c8TE_ZjwLsKb_w1QWu0qlP1zv8hC5nDh/view?usp=sharing)
 2) [Componentes eletrônicos](https://drive.google.com/file/d/1Xh2xe1QQTXV8Y_CCEdwxo691U4seqFA4/view?usp=sharing)
