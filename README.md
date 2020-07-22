@@ -18,3 +18,15 @@ Arduino e projetos práticos. Os projetos e os slides das aulas estão listados 
 2) [Componentes eletrônicos](https://drive.google.com/file/d/1Xh2xe1QQTXV8Y_CCEdwxo691U4seqFA4/view?usp=sharing)
 3) [Arduino](https://drive.google.com/file/d/1rog5Ipr6qMO2JEyGbkiq3DMGXxlbsHVk/view?usp=sharing)
 4) [Projetos práticos](https://drive.google.com/file/d/1netgyv-QbmtrNS8TTLPygUrCrWF9OQZo/view?usp=sharing)
+
+# Hands on
+
+  Os [problemas propostos](https://drive.google.com/file/d/1netgyv-QbmtrNS8TTLPygUrCrWF9OQZo/view?usp=sharing) podem ter mais de uma solução. Uma das soluções possíveis para cada projeto está listada abaixo.
+  
+  + [Projeto 1](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto1)
+  + [Projeto 1.1](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto1.1)
+  + [Projeto 1.2](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto1.2)
+  + [Projeto 2](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto2)
+  + [Projeto 3](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto3)
+  + [Projeto 4](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto4)
+  + [Projeto 5](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto5)
