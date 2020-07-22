@@ -25,7 +25,7 @@ Arduino e projetos práticos.
 
 # Hands on
 
-  Os [problemas propostos](https://drive.google.com/file/d/1netgyv-QbmtrNS8TTLPygUrCrWF9OQZo/view?usp=sharing) podem ter mais de uma solução. Uma das soluções possíveis para cada projeto está listada abaixo.
+  Os [problemas propostos](https://drive.google.com/file/d/1netgyv-QbmtrNS8TTLPygUrCrWF9OQZo/view?usp=sharing) podem ter mais de uma solução. As soluções propostas para cada projeto são listadas a seguir.
   
   + [Projeto 1](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto1)
   + [Projeto 1.1](https://github.com/FelipeCamargoXavier/cursoEletronicaArduino/tree/master/projeto1.1)
