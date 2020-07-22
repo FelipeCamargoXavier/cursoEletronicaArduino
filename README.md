@@ -1,3 +1,7 @@
+<p align="center">
+<img width="350" height="200" src="https://images.unsplash.com/photo-1586920740099-f3ceb65bc51e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=889&q=80" >
+</p>
+
 # Curso Eletrônica & Arduino
   O curso aborda as noções básicas de eletricidade e eletrônica utilizando a plataforma Arduino.
 # Objetivos
